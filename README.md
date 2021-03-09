@@ -80,7 +80,8 @@ The following flows were implemented:
 
 
 ## Demo
-![TeamsIntegration(1)](https://user-images.githubusercontent.com/79215180/110467615-24dd4a80-80cf-11eb-8eca-b4a9f6674e27.gif)
+![TeamsIntegrationDemo](https://user-images.githubusercontent.com/79215180/110469064-0ed08980-80d1-11eb-8445-10223a3ced40.gif)
+
 
 
 
