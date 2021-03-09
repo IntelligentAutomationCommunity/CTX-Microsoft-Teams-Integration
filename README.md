@@ -66,7 +66,8 @@ The following subtasks were implemented:
 * Teams-Create-Action-HTTP-Button-With-Multiple-Choice-Input
 * Teams-Create-Action-HTTP-Button-with-Date-Input
 * Teams-Create-Action-Open-URI-Button
-
+* Teams-Create-Message-Card
+* Teams-Send-Message
 
 The following flows were implemented:
 * Teams-Incoming-Request-Parser
