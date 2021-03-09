@@ -4,7 +4,7 @@
 
 # CTX-Microsoft-Teams-Integration
 
-The following instructions allow you to compare flow packages from different environments and see what flows are different and what is different in them. This proves useful when having disconnected environments where Cortex Gateway Publish functionality cannot be used to check if the master and the published version is diferent.
+The Cortex Microsoft Teams integration module allows you to create information and action cards in Microsoft Teams. More information regarding the cards layout can be found in: *[message card reference](https://docs.microsoft.com/en-us/outlook/actionable-messages/message-card-reference)*
 
 # How to use intructions
 
